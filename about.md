@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I've been writing a learning journal for a while.  Usually just as a tool to condense, review, and further explore topics I've found challenging during the day or week.  This blog is an extension of that, and I'm hoping it might give me more reason to think about further polishing thoughts I have during the learning process.  Topics include but not necessarily limited to machine learning, mathematics, and web-programming. 
