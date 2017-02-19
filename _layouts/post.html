@@ -21,7 +21,7 @@ layout: default
 
 <div class="post-meta">
 in {% for category in page.categories %}
-  <span class="category"> {{ category }} </span>
+  <a class="category" href="/{{category}}"> {{ category }} </span>
 {% endfor %}
 </div>
 tags: <span class="tags post-meta">
