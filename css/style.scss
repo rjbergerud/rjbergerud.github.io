@@ -6,6 +6,7 @@ $brand-color:      #2a7ae2;
 
 
 .page-content {
+  padding: 100px 0;
 }
 
 .category {
@@ -15,4 +16,25 @@ $brand-color:      #2a7ae2;
 
 .math {
   font-family: "Computer Modern Serif", sans-serif;
+}
+
+.wrapper {
+  max-width: calc(1000px - (30px*2));
+  font-size: 16pt;
+}
+
+.home {
+  text-align: center;
+}
+
+.home .post-link {
+  font-size: 25pt;
+}
+
+.post-list img {
+  max-height: 200px
+}
+
+.post-list > li {
+    margin-bottom: 50px;
 }
